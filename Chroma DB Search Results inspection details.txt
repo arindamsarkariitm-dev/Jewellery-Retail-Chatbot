@@ -1,0 +1,74 @@
+[
+  {
+    "text_key": "text",
+    "data": {
+      "context_id": "",
+      "error": false,
+      "file_size": 2364,
+      "mimetype": "application/pdf",
+      "edit": false,
+      "category": "message",
+      "filename": "Jewellery+Details.pdf",
+      "timestamp": "2026-08-18 13:15:38.984876 UTC",
+      "session_id": "",
+      "flow_id": "28b13098-fb5b-41de-8b09-3217cdde4eab",
+      "file_path": "C:\\Users\\Arindam\\AppData\\Local\\langflow\\langflow\\Cache\\accd6e94-ac89-41b9-b46c-df6ceedc8113\\Jewellery+Details.pdf",
+      "text": "Jewellery Product Catalog - Sample Data\nProductID: R101 Name: Classic Diamond Ring Category: Ring Material: 18K Gold +\nDiamond Weight: 5.2 g Price: 135000 Stock: Available\nProductID: R102 Name: Ruby Solitaire Ring Category: Ring Material: 22K Gold +\nRuby Weight: 4.8 g Price: 98500 Stock: Out of Stock\nProductID: N201 Name: Pearl Necklace Category: Necklace Material: 18K Gold +\nPearl Weight: 28.5 g Price: 245000 Stock: Available"
+    },
+    "default_value": ""
+  },
+  {
+    "text_key": "text",
+    "data": {
+      "flow_id": "28b13098-fb5b-41de-8b09-3217cdde4eab",
+      "context_id": "",
+      "file_path": "C:\\Users\\Arindam\\AppData\\Local\\langflow\\langflow\\Cache\\accd6e94-ac89-41b9-b46c-df6ceedc8113\\Jewellery+Details.pdf",
+      "session_id": "",
+      "edit": false,
+      "file_size": 2364,
+      "timestamp": "2026-08-18 13:15:38.984876 UTC",
+      "error": false,
+      "filename": "Jewellery+Details.pdf",
+      "mimetype": "application/pdf",
+      "category": "message",
+      "text": "B401 Name: Gold Chain Bracelet Category: Bracelet Material: 22K Gold\nWeight: 12.0 g Price: 87500 Stock: Available\nProductID: B402 Name: Emerald Cuff Bracelet Category: Bracelet Material: 18K Gold\n+ Emerald Weight: 15.0 g Price: 150000 Stock: Out of Stock\nProductID: P501 Name: Lotus Pendant Category: Pendant Material: 18K Gold +\nDiamond Weight: 8.0 g Price: 72000 Stock: Available"
+    },
+    "default_value": ""
+  },
+  {
+    "text_key": "text",
+    "data": {
+      "error": false,
+      "filename": "Jewellery+Details.pdf",
+      "context_id": "",
+      "timestamp": "2026-08-18 13:15:38.984876 UTC",
+      "category": "message",
+      "flow_id": "28b13098-fb5b-41de-8b09-3217cdde4eab",
+      "file_path": "C:\\Users\\Arindam\\AppData\\Local\\langflow\\langflow\\Cache\\accd6e94-ac89-41b9-b46c-df6ceedc8113\\Jewellery+Details.pdf",
+      "file_size": 2364,
+      "session_id": "",
+      "edit": false,
+      "mimetype": "application/pdf",
+      "text": "N202 Name: Emerald Choker Category: Necklace Material: 22K Gold +\nEmerald Weight: 32.0 g Price: 310000 Stock: Available\nProductID: E301 Name: Daily Wear Gold Earrings Category: Earrings Material: 22K\nGold Weight: 7.5 g Price: 55000 Stock: Available\nProductID: E302 Name: Diamond Stud Earrings Category: Earrings Material: 18K Gold\n+ Diamond Weight: 6.2 g Price: 105000 Stock: Available"
+    },
+    "default_value": ""
+  },
+  {
+    "text_key": "text",
+    "data": {
+      "file_path": "C:\\Users\\Arindam\\AppData\\Local\\langflow\\langflow\\Cache\\accd6e94-ac89-41b9-b46c-df6ceedc8113\\Jewellery+Details.pdf",
+      "session_id": "",
+      "filename": "Jewellery+Details.pdf",
+      "mimetype": "application/pdf",
+      "category": "message",
+      "timestamp": "2026-08-18 13:15:38.984876 UTC",
+      "context_id": "",
+      "edit": false,
+      "flow_id": "28b13098-fb5b-41de-8b09-3217cdde4eab",
+      "error": false,
+      "file_size": 2364,
+      "text": "P502 Name: Om Symbol Pendant Category: Pendant Material: 22K Gold\nWeight: 6.5 g Price: 48000 Stock: Available"
+    },
+    "default_value": ""
+  }
+]
